@@ -12,5 +12,6 @@
 **メニューから魔法をセット**
 ![SetMagic](https://user-images.githubusercontent.com/74074598/134219784-52e9e8cb-6e27-4284-92ed-8b3f25375f61.gif)
 
+
 **魔法で攻撃**
 ![MagicAttack](https://user-images.githubusercontent.com/74074598/134219796-29d6f96f-54be-49a7-8de1-7178a22e8692.gif)
